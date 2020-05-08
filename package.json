@@ -1,0 +1,22 @@
+{
+  "name": "art151-p5drawingmachine2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobdiaz/Art151-p5DrawingMachine2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobdiaz/Art151-p5DrawingMachine2/issues"
+  },
+  "homepage": "https://github.com/jacobdiaz/Art151-p5DrawingMachine2#readme",
+  "dependencies": {
+    "micromodal": "^0.4.6"
+  }
+}
