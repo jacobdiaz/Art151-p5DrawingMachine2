@@ -4,4 +4,4 @@ This program is a study on randomness. The grey lines in the background are gene
 
 Clicking: Click and hold anywhere on the canvas to draw perlin lines. (Velocity is determined by mouse x position) RightArrow: Change to next color LeftArrow: Change to previous color
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/jacobdiaz/Art151-p5DrawingMachine2/blob/master/assets/Screen%20Shot%202020-05-08%20at%201.59.21%20PM.png)
